@@ -317,12 +317,11 @@ body {
             align-items: center;
   }
   .menu__center {
-    width: 70px;
     position: relative;
-    top: 10px;
+    top: 0px;
     left: 50%;
     z-index: 33;
-    margin: 0px 0px 0px -35px;
+    margin: 0px 0px 0px -42px;
   }
   .menu__center img {
     max-width: 100%;
